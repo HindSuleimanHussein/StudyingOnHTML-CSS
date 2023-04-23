@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(63, 96, 196);
+}
+
+h1{
+    text-align: center;
+    color: rgb(6, 6, 97);
+}
+table{
+    border: 1px rgb(22, 1, 88) solid;
+    border-width: thick;
+    background-color:rgb(150, 179, 233);
+    
+
+}
+
+td{
+    border: 1px thick;
+    border-width:thin;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+  }
